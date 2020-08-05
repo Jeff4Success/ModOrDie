@@ -1,0 +1,8 @@
+[{
+  "modid": "modordie",
+  "name": "Mod Or Die",
+  "description": "I'm going to be a modder, or die trying!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["OldGamerDad"]
+}]
