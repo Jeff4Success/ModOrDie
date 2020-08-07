@@ -1,1 +1,6 @@
-item.ruby.name=ruby
+//Items
+item.ruby.name=Ruby
+item.skippy_ingot.name=Skippy Metal
+
+//Blocks
+tile.ruby_block.name=Block of Ruby
